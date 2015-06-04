@@ -1,0 +1,2 @@
+include ':app', ':GlympseIntentsLib'
+project(':GlympseIntentsLib').projectDir = new File('app/lib/GlympseIntentsLib')

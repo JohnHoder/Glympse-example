@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Glympse Intent Demo</string>
+    <string name="create_glympse_title">Create Glympse</string>
+    <string name="create_glympse_button">Create glympse</string>
+    <string name="view_glympse_title">View Glympse</string>
+    <string name="view_glympse_button">View glympses found in text</string>
+    <string name="brand_prompt">Brand:</string>
+    <string name="subtype_prompt">Subtype:</string>
+    <string name="duration_prompt">Initial minutes:</string>
+    <string name="duration_default">15</string>
+    <string name="nickname_prompt">Nickname:</string>
+    <string name="nickname_default">John Doe</string>
+    <string name="avatar_uri_prompt">Avatar URI:</string>
+    <string name="pick_avatar_button">Pick</string>
+    <string name="use_activity_result">Use activity result instead of status intent</string>
+    <string name="buffer_prompt">Text:</string>
+    <string name="buffer_default">Sample text message that contains one or more Glympse URLs, such as http://glympse.com/BOT-002.</string>
+    <string name="show_self">Show self on map</string>
+
+    <!-- App-specific values -->
+    <string name="brand_default">hangouts</string>
+    <string name="subtype_default">hangouts</string>
+
+</resources>
